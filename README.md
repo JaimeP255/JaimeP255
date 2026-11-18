@@ -1,4 +1,4 @@
-# Hi, I'm Jaime Planells Tornero 👋
+# I'm Jaime Planells Tornero 
 
 Third-year **Data Science** student at the [Universitat Politècnica de València](https://www.upv.es/) (UPV). I like working with data end to end: cleaning, modelling, databases and turning the results into something people can use.
 
